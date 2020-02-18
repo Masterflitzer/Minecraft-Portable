@@ -1,13 +1,30 @@
 @echo off
 cd %~dp0
-set setup=
-if exist ".\Minecraft.exe0" (
-echo 1
-set setup=Minecraft.exe
+set mcportable-setup="error - not found"
+if exist ".\Minecraft.exe" (
+set mcportable-setup=Minecraft.exe
 )
-if exist ".\MinecraftLauncher.exe0" (
-echo 2
-set setup=MinecraftLauncher.exe
+if exist ".\MinecraftLauncher.exe" (
+set mcportable-setup=MinecraftLauncher.exe
 )
-if %setup%=="" (echo MinecraftLauncher.exe or Minecraft.exe was not found!) else (echo .\%setup%)
+if %errorlevel% neq 0 (
+echo Ein Fehler ist aufgetreten!
+pause
+exit
+)
+if %mcportable-setup%=="error - not found" (
+echo.
+echo.
+echo.
+echo ################################################################
+echo.
+echo      MinecraftLauncher.exe or Minecraft.exe was not found!
+echo.
+echo ################################################################
+echo.
+echo.
+echo.
+) else (
+.\%mcportable-setup%
+)
 pause

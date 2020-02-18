@@ -1,5 +1,6 @@
 # Minecraft-Portable
 ## Manual
+#### Windows
 ##### Windows
 
 1. Download the Minecraft Launcher (msi or exe) from the official website

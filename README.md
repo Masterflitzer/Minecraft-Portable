@@ -11,7 +11,6 @@
 7. close the game and wait for the script to save your game files
 
 Download Minecraft: https://minecraft.net/download/alternative/
-
 Download Minecraft-Portable script: https://github.com/masterflitzer/minecraft-portable/archive/master.zip
 
 If you get the message 'Windows protected your PC', click 'More info' and 'Run anyway'.

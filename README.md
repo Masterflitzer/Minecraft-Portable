@@ -7,8 +7,10 @@
 3. If you have chosen the msi file install it to your destination directory of choice (do not check the boxes: shortcut on desktop and start minecraft)
 4. If you have chosen the exe file move it to your destination directory of choice
 5. run the install.cmd script and close the minecraft launcher as soon as it has finished loading
-6. run the minecraft.cmd 
+6. run the minecraft.cmd
 7. enjoy playing minecraft portable
 
 Download Minecraft: https://minecraft.net/download/alternative/
 Download Minecraft-Portable script: https://github.com/masterflitzer/minecraft-portable/archive/master.zip
+
+If errors occur, delete everything and start over in a clean directory.

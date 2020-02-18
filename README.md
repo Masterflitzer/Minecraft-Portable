@@ -10,5 +10,5 @@
 6. run the minecraft.cmd 
 7. enjoy playing minecraft portable
 
-Download Minecraft: https://minecraft.net/en-us/download/alternative/
-Download Minecraft-Portable script: https://github.com/Masterflitzer/Minecraft-Portable/archive/master.zip
+Download Minecraft: https://minecraft.net/download/alternative/
+Download Minecraft-Portable script: https://github.com/masterflitzer/minecraft-portable/archive/master.zip

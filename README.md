@@ -8,8 +8,8 @@ Minecraft-Portable: [Download](https://github.com/masterflitzer/minecraft-portab
 1. Extract the script from the downloaded archive and move it to your destination directory of choice (for example your USB stick)
 1. If you have chosen the msi file install it to your destination directory of choice (do not check the boxes: shortcut on desktop and start minecraft)
 1. If you have chosen the exe file move it to your destination directory of choice
-1. Run the 'launch-minecraft.cmd' script and close the minecraft launcher as soon as it has finished loading
-1. Run the 'launch-minecraft.cmd' and enjoy playing minecraft portable
+1. Run the **launch-minecraft.cmd** script and close the minecraft launcher as soon as it has finished loading
+1. Run the **launch-minecraft.cmd** and enjoy playing minecraft portable
 1. Close the game and wait for the script to save your game files
 
 If any errors occur, delete everything and start over in a clean directory.

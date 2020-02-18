@@ -1,6 +1,8 @@
 # Minecraft-Portable
+## Manual
+##### Windows
 
-### Manual
-
-1. Download the Minecraft Launcher (msi or exe) from the official website https://www.minecraft.net/en-us/download/alternative/
+1. Download the Minecraft Launcher (msi or exe) from the official website
 2. 
+
+Download Minecraft: https://www.minecraft.net/en-us/download/alternative/

@@ -3,9 +3,8 @@
 ### Windows
 
 Minecraft-Portable: [Download](https://github.com/masterflitzer/minecraft-portable/archive/master.zip)
-Minecraft: [Download](https://minecraft.net/download/alternative/)
 
-1. Download the cmd script and the Minecraft Launcher (msi or exe) from the official website
+1. Download the cmd script and the Minecraft Launcher (msi or exe) from the [official website](https://minecraft.net/download/alternative/)
 1. Extract the scripts from the downloaded archive and move them to your destination directory of choice (for example your USB stick)
 1. If you have chosen the msi file install it to your destination directory of choice (do not check the boxes: shortcut on desktop and start minecraft)
 1. If you have chosen the exe file move it to your destination directory of choice

@@ -1,4 +1,5 @@
 @echo off
+cd %~dp0
 if not exist "%tmp%\.minecraft" mkdir "%tmp%\.minecraft"
 robocopy ".\.minecraft" "%tmp%\.minecraft" -mir -mt
 pause

@@ -24,7 +24,7 @@ echo ################################################################
 echo.
 echo.
 echo.
+pause
 ) else (
 .\%mcportable-setup%
 )
-pause

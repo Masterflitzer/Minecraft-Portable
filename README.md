@@ -2,7 +2,13 @@
 ## Manual
 ### Windows
 
-1. Download the Minecraft Launcher (msi or exe) from the official website
-2. Install the Launcher to your destination directory (for example your USB stick)
+1. Download the cmd script and the Minecraft Launcher (msi or exe) from the official website
+2. Extract the scripts from the downloaded archive and move them to your destination directory of choice (for example your USB stick)
+3. If you have chosen the msi file install it to your destination directory of choice
+4. If you have chosen the exe file move it to your destination directory of choice
+5. run the install.cmd script and wait for it to finish
+6. run the minecraft.cmd 
+7. enjoy playing minecraft portable
 
-Download Minecraft: https://www.minecraft.net/en-us/download/alternative/
+Download Minecraft: https://minecraft.net/en-us/download/alternative/
+Download Minecraft-Portable script: https://github.com/Masterflitzer/Minecraft-Portable/archive/master.zip

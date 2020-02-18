@@ -10,8 +10,8 @@
 6. run the minecraft.cmd and enjoy playing minecraft portable
 7. close the game and wait for the script to save your game files
 
-Download Minecraft: https://minecraft.net/download/alternative/
 Download Minecraft-Portable script: https://github.com/masterflitzer/minecraft-portable/archive/master.zip
+Download Minecraft: https://minecraft.net/download/alternative/
 
 If you get the message 'Windows protected your PC', click 'More info' and 'Run anyway'.
 If errors occur, delete everything and start over in a clean directory.

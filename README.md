@@ -2,7 +2,7 @@
 ## Manual
 ### Windows
 
-Minecraft-Portable: [Download](https://github.com/masterflitzer/minecraft-portable/archive/master.zip)
+Download: [Minecraft-Portable](https://github.com/masterflitzer/minecraft-portable/archive/master.zip)
 
 1. Download the Batch script and the Minecraft Launcher setup (pick the exe version) from the [official website](https://minecraft.net/download/alternative/)
 1. Extract the script from the downloaded archive and move it to your destination directory of choice (for example your USB stick)
